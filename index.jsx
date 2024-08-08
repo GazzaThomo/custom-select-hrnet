@@ -11,7 +11,12 @@ function CreateDropdown({ optionsArray, dropdownId, onChange }) {
 
   return (
     <div className="select-container">
-      <select id={dropdownId} className="select-element" defaultValue="">
+      <select
+        id={dropdownId}
+        className="select-element"
+        defaultValue=""
+        onChange={handleChange}
+      >
         <option value="" className="option-element" disabled>
           Select...
         </option>
