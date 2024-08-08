@@ -1,0 +1,16 @@
+.select-container {
+  width: 100%;
+}
+
+.select-element {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 2px 4px;
+  font-size: 16px;
+  color: #333;
+  outline: none;
+  cursor: pointer;
+  min-height: 38px;
+}

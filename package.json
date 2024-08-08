@@ -1,0 +1,27 @@
+{
+  "name": "custom-react-dropdown-hrnet",
+  "version": "1.0.0",
+  "description": "creates a custom react component select element",
+  "main": "index.jsx",
+  "files": [
+    "index.jsx",
+    "styles.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GazzaThomo/custom-select-hrnet.git"
+  },
+  "keywords": [
+    "select",
+    "dropdown"
+  ],
+  "author": "Gareth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GazzaThomo/custom-select-hrnet/issues"
+  },
+  "homepage": "https://github.com/GazzaThomo/custom-select-hrnet#readme"
+}
