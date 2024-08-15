@@ -30,7 +30,7 @@ import CreateDropdown from "custom-react-dropdown-hrnet";
 
 ## Props
 
-`optionsArray: An array of objects representing the dropdown options. Each object should have value and label properties.
+`optionsArray` (required): An array of objects representing the dropdown options. Each object should have value and label properties.
 
 ```javascript
 const selectArray = [
@@ -40,9 +40,9 @@ const selectArray = [
 ];
 ```
 
-`mycustomId` : A unique id for your `CreateDropdown` element
+`mycustomId` (required): A unique id for your `CreateDropdown` element
 
-`onChange` : A function that will be called when the user selects an option. The selected option object is passed as an argument.
+`onChange` (required): A function that will be called when the user selects an option. The selected option object is passed as an argument.
 
 ## Example
 

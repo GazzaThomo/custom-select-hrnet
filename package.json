@@ -18,8 +18,8 @@
     "select",
     "dropdown"
   ],
-  "author": "Gareth",
-  "license": "ISC",
+  "author": "Gareth Thomas",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GazzaThomo/custom-select-hrnet/issues"
   },
